@@ -1,4 +1,4 @@
 Project Create - JavaExample  
 Object - Example    
-- Package -  
+- Package  
 kakao - kakao problem  
